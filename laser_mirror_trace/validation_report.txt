@@ -1,0 +1,12 @@
+laser_mirror_trace validation report
+==================================================
+
+samples checked: 20
+questions checked: 100
+content_mode distribution: broken_path=3 (15%), valid_path_no_goal_or_loop=4 (20%), valid_path_reaches_goal=13 (65%)
+outcome_type distribution: {'exited_non_goal': 7, 'reached_goal': 13}
+video frame counts: min=15 max=268 mean=87.5
+
+errors: 0
+
+RESULT: 20 samples, 100 questions, 0 mismatches

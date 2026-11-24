@@ -1,0 +1,13 @@
+hooks_grid_trace validation report
+==================================================
+
+samples checked: 20
+questions checked: 100
+is_broken distribution: {False: 7, True: 13}
+grid_size distribution: {6: 5, 7: 6, 8: 4, 9: 5}
+fill_direction distribution: {'outward': 12, 'inward': 8}
+video frame counts: min=99 max=243 mean=172.5
+
+errors: 0
+
+RESULT: 20 samples, 100 questions, 0 mismatches

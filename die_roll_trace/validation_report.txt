@@ -1,0 +1,13 @@
+die_roll_trace validation report
+==================================================
+
+roll() cross-check: 0/400 random sequences disagreed between die.roll and the independent rotation-matrix implementation
+samples checked: 20
+questions checked: 100
+content_mode distribution: broken_rolls=6 (30%), valid_rolls=14 (70%)
+N distribution: {8: 5, 9: 6, 10: 4, 11: 5}
+video frame counts: min=302 max=402 mean=361.8
+
+errors: 0
+
+RESULT: 20 samples, 100 questions, 0 mismatches

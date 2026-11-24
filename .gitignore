@@ -1,0 +1,26 @@
+node_modules/
+.env
+__pycache__/
+.DS_Store
+bouncing_ball_restitution/presets
+bouncing_ball_restitution/tests
+bouncing_ball_restitution/video
+*/videos
+*/presets/videos
+*/frames
+*/presets/frames
+*/__pycache__
+*/presets/__pycache__
+*/_manim_media
+*/presets/_manim_media
+*/media
+*/presets/media
+output_videos/
+# Videos
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.m4v
+

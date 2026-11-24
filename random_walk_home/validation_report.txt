@@ -1,0 +1,14 @@
+random_walk_home validation report
+==================================================
+
+samples checked: 20
+questions checked: 100
+n_ants distribution: {1: 9, 2: 8, 3: 1, 5: 2}
+ant outcome distribution: {'home': 25, 'dead': 13}
+layer usage: {'home_moved': 2, 'has_holes': 8, 'has_predators': 12, 'has_tile_swap': 5, 'has_wind': 12, 'wind_shift': 5}
+total_ticks: min=10 max=67 mean=37.2
+video frame counts: min=300 max=449 mean=410.6
+
+errors: 0
+
+RESULT: 20 samples, 100 questions, 0 mismatches

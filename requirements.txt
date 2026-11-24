@@ -1,0 +1,11 @@
+manim>=0.19
+numpy>=1.26
+pymunk>=7.0
+opencv-python-headless>=4.9
+pytest>=8.0
+tqdm>=4.66
+shapely
+scipy
+python-chess>=1.999
+cairosvg>=2.7
+networkx>=3.0
